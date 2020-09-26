@@ -4,9 +4,10 @@ object Form1: TForm1
   Cursor = crHandPoint
   Anchors = []
   BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
   Caption = 'SliSame'
-  ClientHeight = 233
-  ClientWidth = 333
+  ClientHeight = 245
+  ClientWidth = 345
   Color = clBlack
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
